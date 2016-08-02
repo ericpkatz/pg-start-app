@@ -1,0 +1,4 @@
+- Help installing (https://community.c9.io/t/setting-up-postgresql/1573)
+- I used postgres as user instead of ubuntu
+- npm install
+- npm run start:dev
